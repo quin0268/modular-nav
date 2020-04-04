@@ -27,6 +27,7 @@ a {
   display: inline-block;
   text-decoration: none;
   color: #0074d9;
+  text-align: left;
 }
 
 a:hover {
